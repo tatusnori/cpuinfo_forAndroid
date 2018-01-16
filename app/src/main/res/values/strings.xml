@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CpuClockInfo</string>
+    <string name="start">"開始"</string>
+    <string name="end">"停止</string>
+</resources>
